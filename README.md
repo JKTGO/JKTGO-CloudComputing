@@ -24,9 +24,9 @@ JKT Go! adalah aplikasi berbasis chatbot yang dirancang untuk membantu wisatawan
 IDE/Editor:
 1. Visual Studio Code (dengan ekstensi Python)
 
-**ntegrasi Cloud**
+**Integrasi Cloud**
 1. Platform Cloud: Google Cloud Platform (GCP)
-2. 
+
 # Commit
 - Python 3.10.0 installed on your machine
 
