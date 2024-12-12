@@ -10,22 +10,19 @@ JKT Go! adalah aplikasi berbasis chatbot yang dirancang untuk membantu wisatawan
 2. Rekomendasi hotel berdasarkan rating, harga, dan lokasi.
 3. Informasi real-time tentang destinasi wisata
 # Persyaratan Sistem
-**Perangkat Keras (Hardware):**
+#Perangkat Keras (Hardware)
 1. Prosesor minimal Dual Core
 2. RAM minimal 4 GB (direkomendasikan 8 GB)
 3. Penyimpanan minimal 10 GB ruang kosong untuk pengembangan dan dependensi aplikasi
 4. Koneksi Internet harus stabil untuk instalasi pustaka dan integrasi layanan cloud
-**Perangkat Lunak (Software):**
+#Perangkat Lunak (Software)
 1. Python: Versi 3.10.0 (pastikan diinstal dan terkonfigurasi)
 2. Flask Framework versi kompatibel dengan Python 3.10.0
-**Lingkungan Pengembangan:**
+#Lingkungan Pengembangan
 IDE/Editor:
 1. Visual Studio Code (dengan ekstensi Python)
-**Integrasi Cloud:**
+#Integrasi Cloud
 1. Platform Cloud: Google Cloud Platform (GCP)
-**Langkah-Langkah Instalasi**
-
-
 # Commit
 - Python 3.10.0 installed on your machine
 
