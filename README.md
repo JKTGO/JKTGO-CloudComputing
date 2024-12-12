@@ -40,16 +40,16 @@ py app.py
 
 # Tim Pengembang
 # Cloud Computing Team (Bangkit Academy 2024)
-1. Meidita Salsabila 
-• institusi : Politeknik Negeri Sriwijaya
-• ⁠program : bangkit academy 2024
-• ⁠email : meiditasalsabila0205@gmail.com
-• ⁠linkedIn : https://www.linkedin.com/in/meidita-salsabila-72a924326/
-• ⁠Github : https://github.com/MeiditaSalsabila
+1. Meidita Salsabila
+#• institusi : Politeknik Negeri Sriwijaya
+#• ⁠program : bangkit academy 2024
+#• ⁠email : meiditasalsabila0205@gmail.com
+#• ⁠linkedIn : https://www.linkedin.com/in/meidita-salsabila-72a924326/
+#• ⁠Github : https://github.com/MeiditaSalsabila
 
 2. Nur Septi Anggraini
-• institusi : Politeknik Negeri Sriwijaya
-• ⁠program : bangkit academy 2024
-• ⁠email : nurseptianggraini5101@gmail.com
-• ⁠linkedIn : https://www.linkedin.com/in/nursepti-anggraini-5b31b7322/
-• ⁠Github : https://github.com/Nursepti15
+#• institusi : Politeknik Negeri Sriwijaya
+#• ⁠program : bangkit academy 2024
+#• ⁠email : nurseptianggraini5101@gmail.com
+#• ⁠linkedIn : https://www.linkedin.com/in/nursepti-anggraini-5b31b7322/
+#• ⁠Github : https://github.com/Nursepti15
